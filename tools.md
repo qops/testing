@@ -16,4 +16,3 @@
 
 
 
-refs: http://www.oschina.net/news/30374/10-free-tools-to-loadstress-test-your-web
